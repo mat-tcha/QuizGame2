@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Title.unity
+    guid: 135f09b036278b943ae8ab687a622b05
+  - enabled: 1
+    path: Assets/Quiz1.unity
+    guid: 91a69b406ac9721409b57719b98bbad3
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88681.1.unity"
+    guid: e322919eb4e16c14da6680aea024ad24
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88681.2.unity"
+    guid: 5dac4cd04f0070648b2c19bb008e4c30
+  - enabled: 1
+    path: Assets/Quiz2.unity
+    guid: d381ea7dcab21f348a4075e149d684a1
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88682.unity"
+    guid: f1f9f22b6e040a94d9054424ec38ee26
+  - enabled: 1
+    path: Assets/Quiz3.unity
+    guid: 2af4e40b425766944b1203f767dbb216
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88683.unity"
+    guid: 6489a3d58490ac54bbdffac8214f9694
+  - enabled: 1
+    path: Assets/Quiz4.unity
+    guid: ebe0785f1f292404a9db8633407bed9f
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88684.unity"
+    guid: c7b1da795c63cb445b1c217dc6997096
+  - enabled: 1
+    path: Assets/Quiz5.unity
+    guid: 68de792b7bc076449a65fb8b5bfb19f8
+  - enabled: 1
+    path: "Assets/\u7D50\u679C\u767A\u88685.unity"
+    guid: e051108d5df45b943bf4a50228453b3a
+  m_configObjects: {}
